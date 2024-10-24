@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="8f15cf8f83d9d21012d6fe55eeaad3ec" sys_domain="global" table="x_1543564_faciliti_stations" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-22 02:42:37</sys_created_on>
+            <sys_id>03ce834f831dd21012d6fe55eeaad3a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1543564_faciliti_stations" sys_domain="global" view="Default view">8f15cf8f83d9d21012d6fe55eeaad3ec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-22 02:42:37</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>station_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-22 02:42:37</sys_created_on>
+            <sys_id>cbce834f831dd21012d6fe55eeaad3a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1543564_faciliti_stations" sys_domain="global" view="Default view">8f15cf8f83d9d21012d6fe55eeaad3ec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-22 02:42:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>region</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-22 02:42:37</sys_created_on>
+            <sys_id>43ce834f831dd21012d6fe55eeaad3a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1543564_faciliti_stations" sys_domain="global" view="Default view">8f15cf8f83d9d21012d6fe55eeaad3ec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-22 02:42:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-22 02:42:37</sys_created_on>
+            <sys_id>c7ce834f831dd21012d6fe55eeaad3a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1543564_faciliti_stations" sys_domain="global" view="Default view">8f15cf8f83d9d21012d6fe55eeaad3ec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-22 02:42:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-22 02:42:37</sys_created_on>
+            <sys_id>4fce834f831dd21012d6fe55eeaad3a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1543564_faciliti_stations" sys_domain="global" view="Default view">8f15cf8f83d9d21012d6fe55eeaad3ec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-22 02:42:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-22 02:42:37</sys_created_on>
+            <sys_id>c3ce834f831dd21012d6fe55eeaad3a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1543564_faciliti_stations" sys_domain="global" view="Default view">8f15cf8f83d9d21012d6fe55eeaad3ec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-22 02:42:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-22 02:42:37</sys_created_on>
+            <sys_id>4bce834f831dd21012d6fe55eeaad3a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1543564_faciliti_stations" sys_domain="global" view="Default view">8f15cf8f83d9d21012d6fe55eeaad3ec</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-22 02:42:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1543564_faciliti_stations</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-22 02:00:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f15cf8f83d9d21012d6fe55eeaad3ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1543564_faciliti_stations</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Facilities &amp;amp; Equipment Maintenance Application" source="x_1543564_faciliti">ff8af68383d9d21012d6fe55eeaad389</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Facilities &amp;amp; Equipment Maintenance Application">ff8af68383d9d21012d6fe55eeaad389</sys_scope>
+            <sys_update_name>sys_ui_section_8f15cf8f83d9d21012d6fe55eeaad3ec</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-22 02:00:17</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
