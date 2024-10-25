@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 01:17:44</sys_created_on>
+        <sys_id>6f5bfec383d9d21012d6fe55eeaad3fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1543564_faciliti_stations.x_1543564_faciliti.stations_user</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Equipment Maintenance Application" source="x_1543564_faciliti">ff8af68383d9d21012d6fe55eeaad389</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Equipment Maintenance Application">ff8af68383d9d21012d6fe55eeaad389</sys_scope>
+        <sys_security_acl display_value="x_1543564_faciliti_stations">e75bfec383d9d21012d6fe55eeaad3fb</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6f5bfec383d9d21012d6fe55eeaad3fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 01:17:44</sys_updated_on>
+        <sys_user_role display_value="x_1543564_faciliti.stations_user" name="x_1543564_faciliti.stations_user">975b32c383d9d21012d6fe55eeaad3e0</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Facilities &amp;amp; Equipment Maintenance Application">ff8af68383d9d21012d6fe55eeaad389</application>
+        <file_path/>
+        <instance_id>13d7a602db79fd5402d917291396195e</instance_id>
+        <instance_name>dev183570</instance_name>
+        <name>sys_security_acl_role_6f5bfec383d9d21012d6fe55eeaad3fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-22 01:17:44</sys_created_on><sys_id>6f5bfec383d9d21012d6fe55eeaad3fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1543564_faciliti_stations.x_1543564_faciliti.stations_user</sys_name><sys_package display_value="Facilities &amp;amp; Equipment Maintenance Application" source="x_1543564_faciliti">ff8af68383d9d21012d6fe55eeaad389</sys_package><sys_policy/><sys_scope display_value="Facilities &amp;amp; Equipment Maintenance Application">ff8af68383d9d21012d6fe55eeaad389</sys_scope><sys_security_acl display_value="x_1543564_faciliti_stations">e75bfec383d9d21012d6fe55eeaad3fb</sys_security_acl><sys_update_name>sys_security_acl_role_6f5bfec383d9d21012d6fe55eeaad3fe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-22 01:17:44</sys_updated_on><sys_user_role display_value="x_1543564_faciliti.stations_user" name="x_1543564_faciliti.stations_user">975b32c383d9d21012d6fe55eeaad3e0</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1619203537</payload_hash>
+        <record_name>x_1543564_faciliti_stations.x_1543564_faciliti.stations_user</record_name>
+        <reverted_from/>
+        <source>489af68383d9d21012d6fe55eeaad38e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 01:17:44</sys_created_on>
+        <sys_id>bf5b320783d9d21012d6fe55eeaad301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192b1cd23420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 01:17:44</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a35b320718d9d210e86e76432285b501</update_guid>
+        <update_guid_history>a35b320718d9d210e86e76432285b501:1619203537</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1543564_faciliti_stations.x_1543564_faciliti.stations_user">bc3d5703839dd21012d6fe55eeaad396</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 03:45:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>07b6243b37c44560879c6a6227de1344</sys_id>
+        <sys_metadata>6f5bfec383d9d21012d6fe55eeaad3fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1543564_faciliti_stations.x_1543564_faciliti.stations_user</sys_name>
+        <sys_package display_value="Facilities &amp;amp; Equipment Maintenance Application" source="x_1543564_faciliti">ff8af68383d9d21012d6fe55eeaad389</sys_package>
+        <sys_parent display_value="x_1543564_faciliti_stations">e75bfec383d9d21012d6fe55eeaad3fb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Facilities &amp;amp; Equipment Maintenance Application">ff8af68383d9d21012d6fe55eeaad389</sys_scope>
+        <sys_scope_delete display_value="">33ed7781c9d648258f517b3ffd5126d9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_6f5bfec383d9d21012d6fe55eeaad3fe</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_6f5bfec383d9d21012d6fe55eeaad3fe">bf5b320783d9d21012d6fe55eeaad301</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 03:45:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

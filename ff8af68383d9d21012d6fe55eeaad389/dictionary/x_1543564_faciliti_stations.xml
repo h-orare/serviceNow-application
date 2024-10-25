@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cdbab2c383d9d21012d6fe55eeaad336" label="Stations" max_length="40" name="x_1543564_faciliti_stations" type="collection">
+        <element choice="1" label="Region" max_length="40" name="region" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Mombasa" sequence="0" value="Mombasa"/>
+                <element inactive_on_update="false" label="Nakuru" sequence="0" value="Nakuru"/>
+                <element inactive_on_update="false" label="Mt. Kenya" sequence="0" value="Mt. Kenya"/>
+                <element inactive_on_update="false" label="Kisumu" sequence="0" value="Kisumu"/>
+                <element inactive_on_update="false" label="Eldoret" sequence="0" value="Eldoret"/>
+                <element inactive_on_update="false" label="Nairobi 2" sequence="0" value="Nairobi 2"/>
+                <element inactive_on_update="false" label="Nairobi 1" sequence="0" value="Nairobi 1"/>
+            </choice>
+        </element>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element display="true" label="Station Name" mandatory="true" max_length="40" name="station_name" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Franchise" sequence="0" value="Franchise"/>
+                <element inactive_on_update="false" label="Lease" sequence="0" value="Lease"/>
+                <element inactive_on_update="false" label="CODO" sequence="0" value="CODO"/>
+            </choice>
+        </element>
+    </element>
+</database>
